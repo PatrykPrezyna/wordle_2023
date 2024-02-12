@@ -4,6 +4,6 @@ import HelloWorld from './components/WordleBoard.vue'
 
 <template>
 
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Hello Vitest" />
 
 </template>
